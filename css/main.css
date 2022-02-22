@@ -1,0 +1,13 @@
+/*external css*/
+h1 {
+  color: red;
+  font-size: 3rem;
+  font-family: fantasy;
+}
+
+h2 {
+  /*to all h2*/
+  color: blue;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
