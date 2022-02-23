@@ -1,13 +1,46 @@
 /*external css*/
+
 h1 {
   color: red;
   font-size: 3rem;
   font-family: fantasy;
 }
 
-h2 {
+.header img {
+  /*css class selector*/
+  float: left;
+  width: 80.75px;
+  height: 100px;
+  background-size: auto;
+  background-color: aqua;
+}
+
+.header h1 {
+  color: maroon;
+  position: relative;
+  top: 18px;
+  left: 82px;
+  padding: 1px;
+  background-size: 30px 100px;
+  background-color: aqua;
+}
+
+.words img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.words a {
+  font-size: 2rem;
+  font-family: serif;
+}
+
+.words h2 {
   /*to all h2*/
-  color: blue;
-  font-size: medium;
-  font-family: Arial, Helvetica, sans-serif;
+  color: dimgray;
+  font-size: xx-large;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: goldenrod;
 }
