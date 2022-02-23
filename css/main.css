@@ -20,8 +20,8 @@ h1 {
   position: relative;
   top: 18px;
   left: 82px;
-  padding: 1px;
-  background-size: 30px 100px;
+  padding: 1px 50px;
+  background-size: 30px 10px;
   background-color: aqua;
 }
 
